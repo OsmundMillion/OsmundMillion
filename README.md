@@ -13,17 +13,11 @@
 </div>
 <br>
 
-<p align="center">
-  I build things with code and break things with curiosity. 💻 Currently diving deep into <strong>Cybersecurity</strong> & <strong>Systems Administration</strong> — learning the fundamentals that power secure, resilient systems. Also doing research on <strong>Coronary Artery Calcium Quantification and Visualization</strong> based on CTA Images. 🫀
-</p>
-
 <ul>
   <li>🎓 Final Year <strong>Bachelor of Science in Computer Science</strong> student.</li>
-  <li>🔐 Aspiring <strong>Cybersecurity & Systems Admin</strong> professional — focused on building a strong foundation before diving into the deep end.</li>
+  <li>🔐 Aspiring <strong>Cybersecurity & Systems Admin</strong> professional.</li>
   <li>🌱 Currently learning <strong>Python, Linux, Automation</strong>, and Windows systems administration fundamentals.</li>
-  <li>🔬 Undergraduate Researcher — <strong>Coronary Artery Calcium Quantification & Visualization</strong> based on CTA Images.</li>
   <li>🤝 Open to <strong>collaborations, internships</strong>, and connecting with others on the same learning journey.</li>
-  <li>💬 Always happy to talk <strong>Cyber, Systems, Linux</strong>, or just tech in general — feel free to reach out!</li>
 </ul>
 
 <br>
